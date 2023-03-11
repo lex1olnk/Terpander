@@ -1,23 +1,29 @@
-import logo from './logo.svg';
 import './App.css';
+/*
+import { YMApi } from "ym-api";
 
-function Home() {
+const SyncAccount = async ({username}, {password}) => {
+  const api = new YMApi();
+  try {
+    await api.init({ username: "example@yandex.ru", password: "password" });
+    const result = await api.searchArtists("gorillaz");
+    console.log({ result });
+  } catch (e) {
+    console.log(`api error ${e.message}`);
+  }
+}
+*/
+const Home = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Welcome to Terpander
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
+      <div>
+
+      </div>
     </div>
   );
 }
