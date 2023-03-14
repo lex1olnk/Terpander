@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Terpander/static/css/main.94052daf.css",
-    "main.js": "/Terpander/static/js/main.6bb7e654.js",
+    "main.css": "/Terpander/static/css/main.ffd4d684.css",
+    "main.js": "/Terpander/static/js/main.670f7c50.js",
     "static/js/902.020ec253.chunk.js": "/Terpander/static/js/902.020ec253.chunk.js",
     "index.html": "/Terpander/index.html",
-    "main.94052daf.css.map": "/Terpander/static/css/main.94052daf.css.map",
-    "main.6bb7e654.js.map": "/Terpander/static/js/main.6bb7e654.js.map",
+    "static/media/yandexIcon.svg": "/Terpander/static/media/yandexIcon.dcffe08d164f6e00a282b65d170aa615.svg",
+    "main.ffd4d684.css.map": "/Terpander/static/css/main.ffd4d684.css.map",
+    "main.670f7c50.js.map": "/Terpander/static/js/main.670f7c50.js.map",
     "902.020ec253.chunk.js.map": "/Terpander/static/js/902.020ec253.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.94052daf.css",
-    "static/js/main.6bb7e654.js"
+    "static/css/main.ffd4d684.css",
+    "static/js/main.670f7c50.js"
   ]
 }
