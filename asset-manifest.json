@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Terpander/static/css/main.94052daf.css",
+    "main.js": "/Terpander/static/js/main.6bb7e654.js",
+    "static/js/902.020ec253.chunk.js": "/Terpander/static/js/902.020ec253.chunk.js",
+    "index.html": "/Terpander/index.html",
+    "main.94052daf.css.map": "/Terpander/static/css/main.94052daf.css.map",
+    "main.6bb7e654.js.map": "/Terpander/static/js/main.6bb7e654.js.map",
+    "902.020ec253.chunk.js.map": "/Terpander/static/js/902.020ec253.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94052daf.css",
+    "static/js/main.6bb7e654.js"
+  ]
+}
